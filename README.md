@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Im a solo designer, bridging gaps between modern infrastructure and automating tools, like idk im new to github and will contribute for sure, I design in Adobe photoshop, Blender, And Use Cloud Based tools to bridge or automate my work...
 <!--
 **Rustytower/RustyTower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
